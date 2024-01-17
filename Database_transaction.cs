@@ -85,8 +85,8 @@ namespace Final_project
             }
         }
 
-        
 
+        public List<Transaction> SearchClient(string clientName)
         {
             List<Transaction> result = new List<Transaction>();
 
